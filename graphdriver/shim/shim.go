@@ -9,7 +9,7 @@ import (
 	"github.com/docker/docker/pkg/archive"
 	"github.com/docker/docker/pkg/containerfs"
 	"github.com/docker/docker/pkg/idtools"
-	graphPlugin "github.com/docker/go-plugins-helpers/graphdriver"
+	graphPlugin "github.com/StudioEtrange/go-plugins-helpers/graphdriver"
 )
 
 type shimDriver struct {

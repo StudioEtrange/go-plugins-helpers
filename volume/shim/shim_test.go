@@ -8,7 +8,7 @@ import (
 
 	"github.com/docker/docker/volume"
 	"github.com/docker/go-connections/sockets"
-	volumeplugin "github.com/docker/go-plugins-helpers/volume"
+	volumeplugin "github.com/StudioEtrange/go-plugins-helpers/volume"
 )
 
 type testVolumeDriver struct{}
